@@ -1,2 +1,6 @@
 temp03 
+<<<<<<< HEAD
 我在master分支中 也修改了一下temp03
+=======
+在dev分支中修改了temp03
+>>>>>>> dev
